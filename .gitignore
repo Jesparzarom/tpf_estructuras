@@ -1,0 +1,11 @@
+tests
+.venv
+.vscode
+OTROS
+algoritmos
+esvec.py
+INFORME.md
+INFORME.pdf
+README.pdf
+__pycache__
+grafos

@@ -1,0 +1,80 @@
+{
+  "clientes": {
+    "C003": {
+      "id": "C003",
+      "nro_cliente": "C003",
+      "nombre": "Juan",
+      "apellido": "Esparza",
+      "tipo_servicio": "Estándar",
+      "fecha_alta": "2024-06-01",
+      "fecha_baja": null,
+      "preferencias": {
+        "genero": {
+          "Acción": 0.8,
+          "Documental": 0.4
+        },
+        "actor": {
+          "Denzel Washington": 0.9
+        },
+        "director": {}
+      }
+    },
+    "C004": {
+      "id": "C004",
+      "nro_cliente": "C004",
+      "nombre": "Prisclia",
+      "apellido": "Rojas",
+      "tipo_servicio": "Premium",
+      "fecha_alta": "2023-11-22",
+      "fecha_baja": null,
+      "preferencias": {
+        "genero": {
+          "Romance": 0.95,
+          "Musical": 0.8
+        },
+        "actor": {
+          "Ryan Gosling": 0.7
+        },
+        "director": {
+          "Greta Gerwig": 0.85
+        }
+      }
+    },
+    "C005": {
+      "id": "C005",
+      "nro_cliente": "C005",
+      "nombre": "Leandro",
+      "apellido": "Gómez",
+      "tipo_servicio": "Básico",
+      "fecha_alta": "2025-01-10",
+      "fecha_baja": null,
+      "preferencias": {
+        "genero": {
+          "Terror": 0.6
+        },
+        "actor": {},
+        "director": {
+          "Guillermo del Toro": 0.75
+        }
+      }
+    },
+    "C006": {
+      "id": "C006",
+      "nro_cliente": "C006",
+      "nombre": "Wenddy",
+      "apellido": "Navarro",
+      "tipo_servicio": "Estándar",
+      "fecha_alta": "2024-09-15",
+      "fecha_baja": "2025-03-15",
+      "preferencias": {
+        "genero": {
+          "Aventura": 0.85
+        },
+        "actor": {
+          "Zendaya": 0.9
+        },
+        "director": {}
+      }
+    }
+  }
+}

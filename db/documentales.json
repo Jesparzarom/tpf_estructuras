@@ -1,0 +1,172 @@
+{
+    "documentales": [
+        {
+            "id": "DOC003",
+            "titulo": "The Thin Blue Line",
+            "etiquetas": {"justicia": 5, "misterio": 4, "drama": 3},
+            "palabras_claves": ["condena-errónea", "investigación", "pena-muerte", "Errol-Morris"],
+            "anio": 1988,
+            "produccion": "Independent",
+            "ids_secuelas": ["DOC004", "DOC005"], 
+            "director": "Errol Morris",
+            "fecha": "1988-08-25",
+            "duracion": 103
+        },
+        {
+            "id": "DOC004",
+            "titulo": "O.J.: Made in America",
+            "etiquetas": {"biografía": 5, "deporte": 3, "crimen": 5},
+            "palabras_claves": ["O.J.-Simpson", "racismo", "celebridad", "juicio-siglo"],
+            "anio": 2016,
+            "produccion": "ESPN Films",
+            "ids_secuelas": ["DOC003", "DOC005", "DOC009"], 
+            "director": "Ezra Edelman",
+            "fecha": "2016-01-22",
+            "duracion": 467
+        },
+        {
+            "id": "DOC005",
+            "titulo": "Wild Wild Country",
+            "etiquetas": {"culto": 5, "historia": 4, "política": 3},
+            "palabras_claves": ["secta", "Rajneesh", "terrorismo", "Oregón", "Netflix"],
+            "anio": 2018,
+            "produccion": "Netflix",
+            "ids_secuelas": ["DOC003", "DOC004", "DOC009"], 
+            "director": "Chapman Way, Maclain Way",
+            "fecha": "2018-03-16",
+            "duracion": 376
+        },
+        {
+            "id": "DOC006",
+            "titulo": "Cowspiracy: El Secreto de la Sostenibilidad",
+            "etiquetas": {"medio-ambiente": 5, "ética": 4, "investigación": 3},
+            "palabras_claves": ["veganismo", "ganadería", "calentamiento-global", "activismo"],
+            "anio": 2014,
+            "produccion": "A.U.M. Films",
+            "ids_secuelas": ["DOC007", "DOC008"], 
+            "director": "Kip Andersen, Keegan Kuhn",
+            "fecha": "2014-06-26",
+            "duracion": 90
+        },
+        {
+            "id": "DOC007",
+            "titulo": "Seaspiracy",
+            "etiquetas": {"medio-ambiente": 5, "océano": 4, "pesca": 4},
+            "palabras_claves": ["océanos", "sobrepesca", "contaminación", "industria-pesquera"],
+            "anio": 2021,
+            "produccion": "Netflix",
+            "ids_secuelas": ["DOC006", "DOC008"], 
+            "director": "Ali Tabrizi",
+            "fecha": "2021-03-24",
+            "duracion": 89
+        },
+        {
+            "id": "DOC008",
+            "titulo": "Una Verdad Incómoda (An Inconvenient Truth)",
+            "etiquetas": {"ciencia": 4, "política": 3, "medio-ambiente": 5},
+            "palabras_claves": ["cambio-climático", "Al-Gore", "calentamiento-global", "conferencia"],
+            "anio": 2006,
+            "produccion": "Participant Media",
+            "ids_secuelas": ["DOC006", "DOC007", "DOC004"], 
+            "director": "Davis Guggenheim",
+            "fecha": "2006-05-24",
+            "duracion": 96
+        },
+        {
+            "id": "DOC009",
+            "titulo": "I Am Not Your Negro",
+            "etiquetas": {"biografía": 5, "historia": 4, "sociedad": 5},
+            "palabras_claves": ["James-Baldwin", "derechos-civiles", "racismo", "USA"],
+            "anio": 2016,
+            "produccion": "ARTE France Cinéma",
+            "ids_secuelas": ["DOC012", "DOC005", "DOC011"], 
+            "director": "Raoul Peck",
+            "fecha": "2016-09-10",
+            "duracion": 93
+        },
+        {
+            "id": "DOC010",
+            "titulo": "A 20 Pasos de la Fama (20 Feet from Stardom)",
+            "etiquetas": {"música": 5, "cultura": 4, "biografía": 3},
+            "palabras_claves": ["coristas", "backing-vocals", "rock", "industria-musical", "Oscar"],
+            "anio": 2013,
+            "produccion": "Gil Friesen Productions",
+            "ids_secuelas": ["DOC011", "DOC004"], 
+            "director": "Morgan Neville",
+            "fecha": "2013-01-17",
+            "duracion": 91
+        },
+        {
+            "id": "DOC011",
+            "titulo": "Joan Didion: El Centro Cederá",
+            "etiquetas": {"literatura": 4, "biografía": 5, "arte": 3},
+            "palabras_claves": ["Joan-Didion", "escritora", "periodismo", "cultura-americana"],
+            "anio": 2017,
+            "produccion": "Netflix",
+            "ids_secuelas": ["DOC010", "DOC009"], 
+            "director": "Griffin Dunne",
+            "fecha": "2017-10-27",
+            "duracion": 94
+        },
+        {
+            "id": "DOC012",
+            "titulo": "Noche y Niebla (Nuit et Brouillard)",
+            "etiquetas": {"historia": 5, "guerra": 5, "memoria": 4},
+            "palabras_claves": ["Holocausto", "Nazismo", "campos-concentración", "Segunda-Guerra-Mundial"],
+            "anio": 1956,
+            "produccion": "Cocinor",
+            "ids_secuelas": ["DOC009", "DOC005"], 
+            "director": "Alain Resnais",
+            "fecha": "1956-04-29",
+            "duracion": 32
+        },
+        {
+            "id": "DOC013",
+            "titulo": "The Social Dilemma",
+            "etiquetas": {"tecnología": 5, "ética": 4, "política": 3},
+            "palabras_claves": ["redes-sociales", "algoritmos", "desinformación", "privacidad"],
+            "anio": 2020,
+            "produccion": "Exposure Labs",
+            "ids_secuelas": ["DOC005", "DOC008", "DOC009"], 
+            "director": "Jeff Orlowski",
+            "fecha": "2020-01-26",
+            "duracion": 94
+        },
+        {
+            "id": "DOC014",
+            "titulo": "Man on Wire",
+            "etiquetas": {"biografía": 5, "exploración": 4, "arte": 3},
+            "palabras_claves": ["Philippe-Petit", "Torres-Gemelas", "equilibrio", "New-York"],
+            "anio": 2008,
+            "produccion": "Wall to Wall",
+            "ids_secuelas": ["DOC010", "DOC011"], 
+            "director": "James Marsh",
+            "fecha": "2008-01-22",
+            "duracion": 94
+        },
+        {
+            "id": "DOC015",
+            "titulo": "Hoop Dreams",
+            "etiquetas": {"deporte": 5, "biografía": 4, "sociedad": 4},
+            "palabras_claves": ["baloncesto", "Chicago", "sueños", "educación", "pobreza"],
+            "anio": 1994,
+            "produccion": "Kartemquin Films",
+            "ids_secuelas": ["DOC004", "DOC009", "DOC010"], 
+            "director": "Steve James",
+            "fecha": "1994-01-01",
+            "duracion": 170
+        },
+        {
+            "id": "DOC016",
+            "titulo": "My Octopus Teacher",
+            "etiquetas": {"ciencia": 5, "medio-ambiente": 4, "exploración": 3},
+            "palabras_claves": ["pulpo", "océano", "relación-humana", "naturaleza"],
+            "anio": 2020,
+            "produccion": "Off the Fence",
+            "ids_secuelas": ["DOC007", "DOC006", "DOC014"], 
+            "director": "Pippa Ehrlich, James Reed",
+            "fecha": "2020-09-07",
+            "duracion": 85
+        }
+    ]
+}

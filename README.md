@@ -1,14 +1,5 @@
 # 1. INTRODUCCION
 
-En la actualidad, la industria del entretenimiento digital ha experimentado un crecimiento exponencial, consolidando a las plataformas de streaming como el medio principal de consumo de contenidos audiovisuales. La gestión de estos sistemas implica el manejo de grandes volúmenes de información heterogénea, que incluye desde catálogos extensos de películas, series y documentales, hasta bases de datos de usuarios con perfiles y preferencias complejas.
-
-El objetivo de este Trabajo Final es el diseño y desarrollo de las estructuras de datos necesarias para soportar el funcionamiento de una Plataforma de Streaming. El sistema debe gestionar eficientemente un catálogo de contenidos multimedia diverso (series, películas y documentales) y la administración de usuarios (clientes), garantizando eficiencia y escalabilidad.
-
-El desafío principal reside en modelar las relaciones entre los distintos tipos de contenidos, sus metadatos (etiquetas, actores, directores) y las preferencias personalizadas de los clientes para permitir funcionalidades futuras de búsqueda y recomendación.
-
-<br>
-<br>
-
 # 2. SOBRE EL PROYECTO
 
 ## 2.1 OBJETIVOS DEL PROYECTO
